@@ -1,0 +1,5 @@
+config SIMCOM_WWAN
+    tristate "SIMCOM_WWAN"
+    help
+    This is a example, for debugging kernel model.
+    If unsure, say N.
